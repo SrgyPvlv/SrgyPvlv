@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrgyPvlv
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning J2SE,J2EE
+- 🌱 I’m currently learning J2SE,J2EE,Spring Boot
 - 💞️ I’m looking to collaborate on very light project
 - 📫 How to reach me s.a.pavlov@mail.ru
 
